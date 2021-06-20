@@ -1,0 +1,834 @@
+.u-section-1 {
+  background-image: url("images/Lacomidaslidermock1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 526px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 525px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 418px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 331px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 234px;
+  }
+}.u-section-2 {
+  background-image: url("images/LacomidaPresentationPDF-02.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 894px;
+  height: 453px;
+  margin: 24px auto 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 720px;
+    height: 365px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 321px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 540px;
+    height: 274px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 220px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 173px;
+  }
+}.u-section-4 {
+  background-image: url("images/LacomidaPresentationPDF-05.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-5 .u-image-1 {
+  min-height: 500px;
+  background-image: url("images/LacomidaPresentationPDF-06.png");
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-image-1 {
+    min-height: 467px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-image-1 {
+    min-height: 366px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-image-1 {
+    min-height: 284px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-image-1 {
+    min-height: 192px;
+  }
+}.u-section-6 {
+  background-image: url("images/LacomidaPresentationPDF-07.png");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-7 {
+  background-image: url("images/LacomidaPresentationPDF-08.png");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-8 {
+  background-image: url("images/LacomidaPresentationPDF-091.png");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 414px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 319px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 213px;
+  }
+}.u-section-9 {
+  background-image: url("images/LacomidaPresentationPDF-10.png");
+  background-position: 50% 50%;
+}
+
+.u-section-9 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-10 {
+  background-image: url("images/LacomidaPresentationPDF-111.png");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-11 {
+  background-image: url("images/LacomidaPresentationPDF-121.png");
+  background-position: 50% 50%;
+}
+
+.u-section-11 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-12 {
+  background-image: url("images/LacomidaPresentationPDF-13.png");
+  background-position: 50% 50%;
+}
+
+.u-section-12 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-12 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-12 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-12 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-12 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-13 .u-image-1 {
+  min-height: 500px;
+  background-image: url("images/LacomidaPresentationPDF-14.png");
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-13 .u-image-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-13 .u-image-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-13 .u-image-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-13 .u-image-1 {
+    min-height: 149px;
+  }
+}.u-section-14 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-14 .u-image-1 {
+  width: 876px;
+  height: 457px;
+  margin: 22px auto 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-14 .u-sheet-1 {
+    min-height: 419px;
+  }
+
+  .u-section-14 .u-image-1 {
+    width: 720px;
+    height: 376px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-14 .u-sheet-1 {
+    min-height: 325px;
+  }
+
+  .u-section-14 .u-image-1 {
+    width: 540px;
+    height: 282px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-14 .u-sheet-1 {
+    min-height: 221px;
+  }
+
+  .u-section-14 .u-image-1 {
+    width: 340px;
+    height: 178px;
+  }
+}.u-section-15 {
+  background-image: url("images/LacomidaPresentationPDF-162.png");
+  background-position: 50% 50%;
+}
+
+.u-section-15 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-15 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-15 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-15 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-15 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-16 .u-image-1 {
+  min-height: 500px;
+  background-image: url("images/LASTONE-17.png");
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-16 .u-image-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-16 .u-image-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-16 .u-image-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-16 .u-image-1 {
+    min-height: 149px;
+  }
+}.u-section-17 {
+  background-image: url("images/LASTONE-18.png");
+  background-position: 50% 50%;
+}
+
+.u-section-17 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 991px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 426px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 335px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 234px;
+  }
+}.u-section-18 {
+  background-image: url("images/LASTONE-19.png");
+  background-position: 50% 50%;
+}
+
+.u-section-18 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 991px) {
+  .u-section-18 .u-sheet-1 {
+    min-height: 407px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-18 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-18 .u-sheet-1 {
+    min-height: 215px;
+  }
+}.u-section-19 {
+  background-image: url("images/LacomidaPresentationPDF-20.png");
+  background-position: 50% 50%;
+}
+
+.u-section-19 .u-sheet-1 {
+  min-height: 500px;
+}.u-section-20 {
+  background-image: url("images/LacomidaPresentationPDF-21.png");
+  background-position: 50% 50%;
+}
+
+.u-section-20 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-20 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-20 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-20 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-20 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-21 {
+  background-image: url("images/LacomidaPresentationPDF-22.png");
+  background-position: 50% 50%;
+}
+
+.u-section-21 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-21 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-21 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-21 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-21 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-22 {
+  background-image: url("images/LacomidaPresentationPDF-23.png");
+  background-position: 50% 50%;
+}
+
+.u-section-22 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-22 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-22 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-22 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-22 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-23 {
+  background-image: url("images/LacomidaPresentationPDF-24.png");
+  background-position: 50% 50%;
+}
+
+.u-section-23 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-24 .u-sheet-1 {
+  min-height: 250px;
+}
+
+.u-section-24 .u-shape-1 {
+  height: 175px;
+  background-image: none;
+  margin: 38px 0 0;
+}
+
+.u-section-24 .u-layout-wrap-1 {
+  width: 1084px;
+  margin: -160px auto 25px 28px;
+}
+
+.u-section-24 .u-layout-cell-1 {
+  min-height: 125px;
+}
+
+.u-section-24 .u-container-layout-1 {
+  padding: 20px 60px;
+}
+
+.u-section-24 .u-text-1 {
+  margin: 4px 0 0;
+}
+
+.u-section-24 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-24 .u-layout-cell-2 {
+  min-height: 125px;
+}
+
+.u-section-24 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-24 .u-btn-1 {
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-24 .u-shape-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-24 .u-layout-wrap-1 {
+    width: 894px;
+    margin-left: 23px;
+  }
+
+  .u-section-24 .u-container-layout-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .u-section-24 .u-btn-1 {
+    margin-left: -1px;
+    margin-right: -1px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-24 .u-layout-wrap-1 {
+    width: 685px;
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+
+  .u-section-24 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-24 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-24 .u-btn-1 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-24 .u-shape-1 {
+    height: 260px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-24 .u-layout-wrap-1 {
+    width: 513px;
+    margin-top: -245px;
+    margin-right: auto;
+    margin-left: 13px;
+  }
+
+  .u-section-24 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-24 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-24 .u-shape-1 {
+    height: 319px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-24 .u-layout-wrap-1 {
+    width: 323px;
+    margin-top: -294px;
+    margin-left: 8px;
+  }
+}.u-section-25 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-25 .u-sheet-1 {
+    min-height: 434px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-25 .u-sheet-1 {
+    min-height: 658px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-25 .u-sheet-1 {
+    min-height: 1724px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-25 .u-sheet-1 {
+    min-height: 1132px;
+  }
+}
